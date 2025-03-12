@@ -1,1 +1,6 @@
-# psedocode_to_code-code_to_psedo_code
+
+# Code Converter
+
+This is a Streamlit app for converting pseudocode to code and vice versa.
+
+🚀 **Live App:** [Code Converter](https://codeconvertor.streamlit.app/)
