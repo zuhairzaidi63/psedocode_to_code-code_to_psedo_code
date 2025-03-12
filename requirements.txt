@@ -1,4 +1,4 @@
 torch
-math
-json
 streamlit
+numpy
+pandas
